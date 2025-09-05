@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "testiominals",
+  "info": {
+    "singularName": "testiominal",
+    "pluralName": "testiominals",
+    "displayName": "Testiominal"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "PostDescription": {
+      "type": "text"
+    }
+  }
+}
